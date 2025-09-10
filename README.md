@@ -1,6 +1,10 @@
 # student-portal-demo
 Learning GitHub with DevOps
+
+
 Student-portal-demo
+
+
 a basic idea for a student portal application
 
 Student Portal Demo
@@ -8,7 +12,7 @@ This is a basic demo of a Student Portal Application designed to streamline stud
 
 
 
-🎯 Key Features
+🎯 Key Features:
 Student Authentication (Login/Signup)
 Course Registration
 Grades & Transcripts View
@@ -18,7 +22,7 @@ Announcements & Notifications
 
 
 
-Profile Management
+Profile Management:
 🔧 Tech Stack (suggested)
 Frontend: React / HTML / CSS
 Backend: Node.js / Express
